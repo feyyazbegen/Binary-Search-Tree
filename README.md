@@ -5,7 +5,7 @@ https://www.patika.dev/tr
           7
           
 2.ADIM
-2-        7
+          7
          /
         5
 
