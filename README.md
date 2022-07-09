@@ -1,29 +1,29 @@
 # Binary-Search-Tree
 https://www.patika.dev/tr
 
-1. ADIM
-          7
+
+           7
           
-2.ADIM
+
           7
          /
         5
 
-3.DIM
+
           7
          /
         5
        /
       1 
 
-4.ADIM
+
           7
          / \
         5   8
        /
       1 
 
-5.ADIM
+
           7
          / \
         5   8
@@ -32,7 +32,7 @@ https://www.patika.dev/tr
        \
         3
 
-6.ADIM
+
           7
          / \
         5   8
@@ -41,7 +41,7 @@ https://www.patika.dev/tr
        \
         3
 
-7.ADIM
+
           7
          / \
         5   8
@@ -50,7 +50,7 @@ https://www.patika.dev/tr
      / \
     0   3
 
-8.ADIM
+
           7
          / \
         5   8
@@ -59,7 +59,7 @@ https://www.patika.dev/tr
      / \
     0   3
 
-9. ADIM
+
           7
          / \
         5   8
@@ -71,7 +71,7 @@ https://www.patika.dev/tr
           4
 
 
-10. ADIM
+
           7
          / \
         5   8
